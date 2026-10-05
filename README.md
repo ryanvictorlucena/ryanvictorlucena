@@ -2,7 +2,7 @@
 
 **`Desenvolvedor`**
 
-Meu nome é Ryan Victor Lucena, tenho 22 anos e sou da Paraíba. Sou estudante do curso de ciência da computação na UFCG. Gosto muito de esportes e tenho uma grande facinação por tecnologia.
+Meu nome é Ryan Victor, sou estudante do curso de ciência da computação na UFCG. Gosto muito de esportes e tenho uma grande facinação por tecnologia.
 
 ---
 
